@@ -1,2 +1,2 @@
-# servergame
-help me to make a multiplayer server game on go!
+# tic-tac-toe
+tic-tac-toe on go!
